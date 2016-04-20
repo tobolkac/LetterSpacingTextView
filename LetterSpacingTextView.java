@@ -1,4 +1,3 @@
-package com.goldenfrog.vyprvpn.app.frontend.ui.custom;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -9,8 +8,6 @@ import android.text.SpannableString;
 import android.text.style.ReplacementSpan;
 import android.util.AttributeSet;
 import android.widget.TextView;
-
-import com.goldenfrog.vyprvpn.app.R;
 
 /**
  * Created by clayt on 6/3/15.
